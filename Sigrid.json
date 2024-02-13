@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sigrid-mmvf",
+  "private_key_id": "8694a5bc7f1046b4f51b6458a8eba521df081261",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXQbv5FFcY7ZwN\nkbfkZPX8pZzZoaS5cCwjHiwtXvs6Tt+1+wFif/Q+fuiF/l+SpaNTF/suGCVowUcd\nt6w3VCB5KNEl8trUj/2L0Kmlhs7jEbj9BZCRQY9yZAJYTHfHCOGHQhtalFxZfzgn\nE7xPIoNUjm13dvHV6CBK0Xktsmg0EluRSK50XxGsPFTY6uwcjf4t4vL6zbTyYmss\n/h3IHXAgab/sYYSajIwwhHFuMVTgdkt2B1B+jBN0K/8yuVp+CTzYBhObDDwrTaG5\nmsYWctKkYnghITXIivYQztdEQ3vxPoTyt5jehTwTuCjzXZT86EDIRqXFfw1K8QAw\nHznm+uFxAgMBAAECggEAGQ11/q3O20BgTrX8dJEJjh+KS0wEW27CPE4ZLyikTat7\nXvc5OIkS2Kk1j87EudEcWqHqYnl99Ry1lbBYU1Ivu1o0SVnj/SRLCpg8/l5butLH\nuG8K3dUHCHW6TiOMNzaB5RedDmRBAUuMsgOagY1PQqqW8/X8fHxZMcwCcf6XISQh\nLZ/CLI9+ISwqOg0ITFzw1YDEfK7Oujt+/vrxAfQyWkcE7MEgY3+swvsX34+1nFLM\nncalRQeaGoRRZxDt2GrcG3Be49cktAo6UfYm1loMpLBmGYIdAls8cBVh3iWleLVM\n0+asT8wQCKTI0JRcYnTw0ab/ATpQ61zv83/y8ZZoXwKBgQDtlVZEUwSwKbQwEfBU\nf3AfANUs+PeH6rANi8npPd80xDcS9XQU944fkkZnQ2aZHL4CGnUuWmeV3XFAS+4o\nFIWKCc31Ugb8BQJxgzkjDAlSLKR7LAJWK0Kzeo5vw4T/0qS3VdeYFx+xWLMjXoX5\ng5bUfqUrPOTZ1+V7ZZ+QclsSRwKBgQDn8VfdZBH6yRZvtzZjrcoTYn/FDWOcxqUE\nUen7SRL52LQNplMkq4iPVWYz1IQck0IdNA8E1cLRhniQCPdeVY3zeJFZxKXY0glk\nqig3vYpX2Up439WsKebrD7ANb61L9juB43DRuZKwg+pobabbzZVPrBfmS881W0D5\nQYP+UVrShwKBgBDXs2Polr5+Vl3KB8WVuzcXcgVcKQAjrRNow4mbb0VoW5cme3I5\nEoQ+dGtBpfZYyUeQ5JnCovFG3451U47X1Zexlj478G7RVBkD+nr3kXmX3Jk2x3ug\nWXwrxgk6TSVto2uz1DLeAMsrxJdPTiQgJgMubzsfeAHRgl07GRK+aKJlAoGBAI7Z\nYj8VAcnODUZytUnA4EL+GCkZrO8CnOFDPfMot0ovf/0kIfLkvm9grlhfm5opy79G\nr7VPnfQDeL9k9k0gLhP0fril12rpOSXJcomZ79lZF3fIi8XD7Nd6yvgLftTY6x99\nH5/bRg/2vujgF7MqM7plCDcrG4wGDsc05YE9Q82DAoGBANA5dB+lZUBji/aFzpNp\nO+6pfKj5fMRwiXwgHLkri4IrQ5qKqUT3Aid9K70iu0Ka6qvE4IDaKMG/h7XSgCxF\nMLDaQ5EbxlkJOKgGeebpxbyqdDargzvCHnaPeju1NjnSMta1F66fmnrvqh370iwj\ne7N50rdD3Zd1YfW5rG8JtnTb\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@sigrid-mmvf.iam.gserviceaccount.com",
+  "client_id": "107656671834078779625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40sigrid-mmvf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
